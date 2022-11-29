@@ -1,2 +1,9 @@
-let alpha = "Abcdefghijklmnopqrstuvwxyz"
-console.log(alpha)
+
+function display(){
+
+    let lettres = "abcdefghijklmnopqrstuvwxyz"
+    console.log(lettres)
+
+}
+
+ display();
